@@ -2,11 +2,27 @@
 
 ## LEU; Centrus Energy Corp
 
-### Nuclear Energy Rise
+### Basic Idea:
+#### Nuclear Energy Rise:
+#### LEU Oversold:
+#### Earnings Report:
+- May 19th
+- Analysts predict a higher than projected earnings
+- Historic price jump after earnings dropped
 
-#### Centrus Oversold:
-- RSI was 28.xx in March and only has gone lower
+### Balance Sheet Analysis:
+- Total Assets: 796.2 million
+- Asset Vs Last Year: +90.7 million
+- Asset Vs Last Year %: +12.86%
+- Total Liabilities: 763.9 million
+- Liabilities Vs Last Year: -15.7 million
+- Liabilities Vs Last Year %: 0.02%
+- Total Debt: $174.5 million
+- Debt Vs Last Year: +$10.8 million
+- Debt Vs Last Year %: +6.55%
 
-### Earnings Report:
-- May 13th, 2024
-- Consensus among analysts that Centrus earnings will grow
+### Similar Comps:
+
+
+### Technical Analysis:
+
